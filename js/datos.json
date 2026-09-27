@@ -1,0 +1,17 @@
+[
+    {
+        "titulo": "Identidad Visual",
+        "descripcion": "Proyecto de diseño enfocado en la construcción de una identidad visual y sus aplicaciones.",
+        "detalles": "Área: Diseño gráfico"
+    },
+    {
+        "titulo": "Diseño Editorial",
+        "descripcion": "Proyecto que organiza textos e imágenes para construir una pieza editorial clara y coherente.",
+        "detalles": "Área: Diseño editorial"
+    },
+    {
+        "titulo": "Diseño Digital",
+        "descripcion": "Proyecto orientado a la creación de una propuesta visual para un entorno digital.",
+        "detalles": "Área: Diseño digital"
+    }
+]
