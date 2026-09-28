@@ -1,0 +1,17 @@
+[
+    {
+        "titulo": "Día de sol",
+        "descripcion": "Picnic, café al aire libre y caminar sin rumbo.",
+        "detalles": "Mood: afuera todo el día."
+    },
+    {
+        "titulo": "Día de lluvia",
+        "descripcion": "Cocinar algo rico, película y plan de sillón.",
+        "detalles": "Mood: no pienso salir."
+    },
+    {
+        "titulo": "Noche improvisada",
+        "descripcion": "Una copa que termina convirtiéndose en cena y salida.",
+        "detalles": "Mood: vemos qué pasa."
+    }
+]
